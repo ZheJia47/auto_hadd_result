@@ -1,0 +1,8 @@
+Total 1 jobs are finished.
+acceptanceupsilon_Sampling1_0924.root is completed and located at following path:
+/Users/zhangzhejia14/Dropbox/coding_study/bash_script_study/qsub_study/auto_hadd_result/acceptanceupsilon_Sampling1_0924.root
+.root is completed and located at following path:
+/Users/zhangzhejia14/Dropbox/coding_study/bash_script_study/qsub_study/auto_hadd_result/.root
+Simply download the file by the command below:
+scp zjzhang@140.116.91.168:/Users/zhangzhejia14/Dropbox/coding_study/bash_script_study/qsub_study/auto_hadd_result/acceptanceupsilon_Sampling1_0924.root .
+scp zjzhang@140.116.91.168:/Users/zhangzhejia14/Dropbox/coding_study/bash_script_study/qsub_study/auto_hadd_result/.root .
